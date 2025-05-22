@@ -2,10 +2,6 @@
 
 **A secure, scalable, and full-stack cloud-native banking application built with Python (Flask), AWS EC2, and AWS DynamoDB, providing core banking functionalities, data analytics, and reporting capabilities.**
 
-<!-- Optional: Add a high-level architecture diagram or a GIF of the app in action
-![CloudBank System Overview](https://example.com/path/to/your_architecture_diagram.png)
--->
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -67,8 +63,6 @@ The system is architected following modern cloud design principles, emphasizing 
 
 ## High-Level Architecture
 
-*(This section would ideally include an architecture diagram image. The description below summarizes it.)*
-
 The system follows a multi-tier architecture:
 
 1.  **Presentation Layer (Frontend):** HTML, CSS, and JavaScript render the user interface, interacting with the backend via HTTP requests.
@@ -88,8 +82,6 @@ The project was developed through the following key phases:
 6.  **Deployment, Testing & Optimization:** Deploying the Flask app to EC2, conducting thorough testing (functional, security, load), and optimizing performance.
 
 ## Setup and Deployment
-
-*(This section provides a high-level guide. Detailed commands are in the project documentation.)*
 
 1.  **AWS Prerequisites:**
     *   An active AWS account.
